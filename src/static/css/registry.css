@@ -1,0 +1,35 @@
+body {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    background-color: #000;
+    color: #eee;
+}
+
+legend {
+    color: #fff;
+}
+
+input {
+    width: 100%;
+}
+
+.logo {
+    float: right;
+}
+
+.form-register {
+    max-width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    background-color: #222;
+}
+
+.btn-register {
+    margin-top: 20px;
+}
+
+.captcha {
+    margin: 10px auto;
+    display: block;
+}
